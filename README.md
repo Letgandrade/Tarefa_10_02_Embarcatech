@@ -37,6 +37,6 @@ Este projeto tem como objetivo explorar o uso do conversor analógico-digital (A
 - Tratamento de bouncing via software
 
 ### Link do Vídeo:
-
+https://drive.google.com/file/d/1Efw7YEEjgUDyEN5EAkJ6R0LixaytOWxE/view?usp=sharing
 
 
